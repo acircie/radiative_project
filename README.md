@@ -12,7 +12,7 @@ In ['fixed_parameters'](https://colab.research.google.com/drive/1lqaaPylqCMJOV4C
 
 In ['variable_electrons'](https://colab.research.google.com/drive/1K8FgVi9o-liiLpdxmAn9_EvUktbwYHac?usp=sharing) I compute the spectrum of the toy model fixing the emission region parameters and variating the distribution of electrons.
 
-In ['variable_region']() I will compute the spectrum for a fixed electron distribution, tweaking the definition of the emission region.
+In ['variable_region'](https://colab.research.google.com/drive/18wphlyhkRqDQW7EojDI8Q-S38q-zY-2U?usp=sharing) I compute the spectrum for a fixed electron distribution, tweaking the definition of the emission region.
 
 In the first two, the computation is first performed for Synchrotron and SSC emissions separately and then again for the combined SED.
-Since the emission regions depends on more parameter, to reduce the length of the notebook, the individual determinations of the Synchrotron and SSC spectra are carried out separately in ['variable_region_synch'](https://colab.research.google.com/drive/1k_eIoeHu7EasM5DR-SQEFLlI2GnJgR7E?usp=sharing) and ['variable_region_ssc'](https://colab.research.google.com/drive/1AHDhHGbaQ543f8bV-fdDhrhO6pVimElS?usp=sharing).
+Since the emission regions depends on more parameter, to reduce the length of the notebook, the individual determinations of the Synchrotron and SSC spectra are carried out separately in ['variable_region_synch'](https://colab.research.google.com/drive/1pLlS7Xpt_y3wgBX_jxqk76PitfEFxQVl?usp=sharing) and ['variable_region_ssc'](https://colab.research.google.com/drive/1CFEMeiLN4QPEvt8dSAM5Y3rHGepdTLEP?usp=sharing).
