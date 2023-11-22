@@ -15,6 +15,3 @@ In ['variable_electrons'](https://colab.research.google.com/drive/1K8FgVi9o-liiL
 In ['variable_region']() I will compute the spectrum for a fixed electron distribution, tweaking the definition of the emission region.
 
 In all three files, the computation is first performed for Synchrotron and SSC emissions separately and then again for the combined SED.
-
-
-An outline of the project running on colab can be found [here](https://colab.research.google.com/drive/1AyK1ziMVhhf6KXTRsbTPu3JsLB648nqB?usp=sharing)
