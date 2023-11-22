@@ -10,7 +10,7 @@ I use this package to carry out the computation of Synchrotron emission and Sync
 
 In ['fixed_parameters'](https://colab.research.google.com/drive/1lqaaPylqCMJOV4CoT686kws0s1iBEEIr#scrollTo=WX1cvCeakc83) I showcase the functionalities of the package for my case of study, fixing the emission region and the electron distribution and reporting the formulae used to compute the SEDs "behind the scenes".
 
-In ['variable_electrons']() I compute the spectrum of the toy model fixing the emission region parameters and variating the distribution of electrons.
+In ['variable_electrons'](https://colab.research.google.com/drive/1K8FgVi9o-liiLpdxmAn9_EvUktbwYHac?usp=sharing) I compute the spectrum of the toy model fixing the emission region parameters and variating the distribution of electrons.
 
 In ['variable_region']() I will compute the spectrum for a fixed electron distribution, tweaking the definition of the emission region.
 
