@@ -8,7 +8,9 @@ which is based on the results from [Finke et al. (2008)](https://ui.adsabs.harva
 
 I use this package to carry out the computation of Synchrotron emission and Synchrotron-Self-Compton emission from a spherical region filled with relativistic electrons with a power-law distribution of energies, to simulate the face-on observation of a blazar-like source.
 
-In ['fixed_parameters'](https://colab.research.google.com/drive/1lqaaPylqCMJOV4CoT686kws0s1iBEEIr#scrollTo=WX1cvCeakc83) I showcase the functionalities of the package for my case of study, fixing the emission region and the electron distribution and reporting the formulae used to compute the SEDs "behind the scenes".
+In ['fixed_parameters'](https://colab.research.google.com/drive/1lqaaPylqCMJOV4CoT686kws0s1iBEEIr#scrollTo=WX1cvCeakc83) I showcase the functionalities of the package for my case of study, fixing the emission region and the electron distribution and reporting the formulae used to compute the SEDs "behind the scenes". <a target="_blank" href="https://colab.research.google.com/github/acircie/radiative_project/blob/main/fixed_parameters.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 In ['variable_electrons'](https://colab.research.google.com/drive/1K8FgVi9o-liiLpdxmAn9_EvUktbwYHac?usp=sharing) I compute the spectrum of the toy model fixing the emission region parameters and variating the distribution of electrons.
 
