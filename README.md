@@ -12,9 +12,17 @@ In 'fixed_parameters' I showcase the functionalities of the package for my case 
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-In 'variable_electrons' I compute the spectrum of the toy model fixing the emission region parameters and variating the distribution of electrons.
+In 'variable_electrons' I compute the spectrum of the toy model fixing the emission region parameters and variating the distribution of electrons. <a target="_blank" href="https://colab.research.google.com/github/acircie/radiative_project/blob/main/variable_electron.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
-In 'variable_region' I compute the spectrum for a fixed electron distribution, tweaking the definition of the emission region.
+In 'variable_region' I compute the spectrum for a fixed electron distribution, tweaking the definition of the emission region. <a target="_blank" href="https://colab.research.google.com/github/acircie/radiative_project/blob/main/variable_region.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 In the first two, the computation is first performed for Synchrotron and SSC emissions separately and then again for the combined SED.
-Since the emission regions depends on more parameter, to reduce the length of the notebook, the individual determinations of the Synchrotron and SSC spectra are carried out separately in ['variable_region_synch'](https://colab.research.google.com/drive/1pLlS7Xpt_y3wgBX_jxqk76PitfEFxQVl?usp=sharing) and ['variable_region_ssc'](https://colab.research.google.com/drive/1CFEMeiLN4QPEvt8dSAM5Y3rHGepdTLEP?usp=sharing).
+Since the emission regions depends on more parameter, to reduce the length of the notebook, the individual determinations of the Synchrotron and SSC spectra are carried out separately in  'variable_region_synch' <a target="_blank" href="https://colab.research.google.com/github/acircie/radiative_project/blob/main/variable_region_synch.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> and 'variable_region_ssc' <a target="_blank" href="https://colab.research.google.com/github/acircie/radiative_project/blob/main/variable_region_ssc.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>.
