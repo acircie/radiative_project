@@ -26,3 +26,4 @@ Since the emission regions depends on more parameter, to reduce the length of th
 </a> and 'variable_region_ssc' <a target="_blank" href="https://colab.research.google.com/github/acircie/radiative_project/blob/main/variable_region_ssc.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>.
+While these two notebooks allow to look more closely at the effects of the changes in the emission region on the Synchrotron and SSC emissions individually, the 'variable region' shows the overall effect on the toy-model, with commentary to guide throguh the relations between the parameters and the emission. 
