@@ -16,7 +16,7 @@ In 'variable_electrons' I compute the spectrum of the toy model fixing the emiss
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-In 'variable_region' I compute the spectrum for a fixed electron distribution, tweaking the definition of the emission region. <a target="_blank" href="https://colab.research.google.com/github/acircie/radiative_project/blob/main/variable_region.ipynb">
+In 'variable_region' I compute the spectrum for a fixed electron distribution, tweaking the definition of the emission region. <a target="_blank" href="https://colab.research.google.com/github/acircie/radiative_project/blob/develop/variable_region.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
